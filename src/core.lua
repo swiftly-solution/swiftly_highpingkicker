@@ -68,7 +68,7 @@ function GetPluginVersion()
 end
 
 function GetPluginName()
-    return "Last Disconnects"
+    return "High Ping Kicker"
 end
 
 function GetPluginWebsite()
